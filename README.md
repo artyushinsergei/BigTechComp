@@ -1,8 +1,8 @@
 # BigTechComp
-iOS 15+
-Пользовательский интерфейс реализован на SwiftUI
-Для отображения карты использован MapKit
-Предпочтительно использование Combine для работы с сетью
+* iOS 15+
+* Пользовательский интерфейс реализован на SwiftUI
+* Для отображения карты использован MapKit
+* Предпочтительно использование Combine для работы с сетью
 
 Ссылка на бэк https://run.mocky.io/v3/df80c311-970b-425a-9a46-4d8ba2c19911  
 ![simulator_screenshot_50B276D8-B334-4DAC-8BCA-4A11584CE4EC](https://github.com/artyushinsergei/BigTechComp/assets/43203983/97d4f8da-2bb7-4b0f-805a-7fca83f74df8)
